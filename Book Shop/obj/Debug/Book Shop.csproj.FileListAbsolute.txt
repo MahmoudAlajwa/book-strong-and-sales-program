@@ -1,0 +1,69 @@
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\bin\Debug\Book Shop.exe.config
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\bin\Debug\Book Shop.exe
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\bin\Debug\Book Shop.pdb
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.Books.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.DashBoard.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.Login.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.splash.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.Users.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CopyComplete
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book Shop.exe
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book Shop.pdb
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.admin.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\bin\Debug\BookShopDb.mdf
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\bin\Debug\BookShopDb_log.ldf
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.Billing.resources
+C:\Users\HP\Desktop\4.DERSİM\Sistem Analizi ve Tasarımı (A)\Book Shop\Book Shop\obj\Debug\Book_Shop.AdminLogin.resources
+C:\Users\HP\Desktop\Book Shop\Book Shop\bin\Debug\BookShopDb.mdf
+C:\Users\HP\Desktop\Book Shop\Book Shop\bin\Debug\BookShopDb_log.ldf
+C:\Users\HP\Desktop\Book Shop\Book Shop\bin\Debug\Book Shop.exe.config
+C:\Users\HP\Desktop\Book Shop\Book Shop\bin\Debug\Book Shop.exe
+C:\Users\HP\Desktop\Book Shop\Book Shop\bin\Debug\Book Shop.pdb
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book_Shop.Billing.resources
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book_Shop.splash.resources
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CopyComplete
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book Shop.exe
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book Shop.pdb
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book_Shop.BookShop.resources
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book Shop.exe
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book Shop.pdb
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\bin\Debug\BookShopDb.mdf
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\bin\Debug\BookShopDb_log.ldf
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\bin\Debug\Book Shop.exe.config
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\bin\Debug\Book Shop.exe
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\bin\Debug\Book Shop.pdb
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CopyComplete
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book_Shop.Login_admin.resources
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book_Shop.splash.resources
+C:\Users\HP\Desktop\ىثص\Book Shop\Book Shop\obj\Debug\Book_Shop.Billing.resources
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book_Shop.BookShop.resources
+C:\Users\HP\Desktop\Book Shop\Book Shop\obj\Debug\Book_Shop.Login_admin.resources
+D:\2.sınıf\Book Shop\Book Shop\bin\Debug\BookShopDb.mdf
+D:\2.sınıf\Book Shop\Book Shop\bin\Debug\BookShopDb_log.ldf
+D:\2.sınıf\Book Shop\Book Shop\bin\Debug\Book Shop.exe.config
+D:\2.sınıf\Book Shop\Book Shop\bin\Debug\Book Shop.exe
+D:\2.sınıf\Book Shop\Book Shop\bin\Debug\Book Shop.pdb
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.AssemblyReference.cache
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book_Shop.Billing.resources
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book_Shop.BookShop.resources
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book_Shop.Login_admin.resources
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book_Shop.splash.resources
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.GenerateResource.cache
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CoreCompileInputs.cache
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book Shop.csproj.CopyComplete
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book Shop.exe
+D:\2.sınıf\Book Shop\Book Shop\obj\Debug\Book Shop.pdb
